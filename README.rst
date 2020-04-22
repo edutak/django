@@ -1,5 +1,5 @@
 ======
-Django
+Django(디장고)
 ======
 
 Django is a high-level Python Web framework that encourages rapid development
